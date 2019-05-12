@@ -1,3 +1,3 @@
-This is a simple casino slots game.
+This is a simple casino slots game written in python 3.
 Feel free to use, modify and share it as you like.
-Also I'll appreciate every suggestion.
+I'll also appreciate every feedback and suggestion.
