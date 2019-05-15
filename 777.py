@@ -14,7 +14,7 @@ def clear():
         system('clear')
 
 
-# Below is defined 6 lists of 6 strings which are displayed in game symbols
+# Below are defined 6 lists of 6 strings which are displayed in game symbols
 # Number in parenthesis for 'fg' method sets 8-bit color for string
 strawberry = [fg(111) + '         ' + fg.rs,
                fg(34) + '    ##   ' + fg.rs,
