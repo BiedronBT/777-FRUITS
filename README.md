@@ -4,5 +4,5 @@ You need to match three same symbols in any of three horizontal lines or diagona
 ![img](https://raw.githubusercontent.com/BiedronBT/777-FRUITS/master/play.gif)
 
 Feel free to use, modify and share it as you like.
-.
+
 I'll very appreciate every feedback and suggestion.
