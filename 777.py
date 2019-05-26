@@ -237,8 +237,7 @@ def layout(s1, s2, s3):
         print('\t|  |', l, '|', m, '|',  r, '|  |  |')
     print('\t|   -----------------------------------   |  |')
     print('\t|                                         |  |')
-    print('\t|    BET  {}              CREDIT {}    |  |'.format(' ' * (2 - len(str(money.bet))) + str(money.bet),
-                                                                 ' ' * (5 - len(str(money.credit))) + str(money.credit)))
+    print(f'\t|    BET  {money.bet:2}              CREDIT {money.credit:5}    |  |')
     print('\t|                                         | /')
     print('\t|_________________________________________|/')
 
